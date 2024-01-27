@@ -1,0 +1,20 @@
+/* .fooditemsbtn{ */
+    /* float: right; */
+    /* height: 20px;
+    width: 20px; */
+    /* margin-right: 300px; */
+/* } */
+
+.fooditemsdiv{
+    margin-right: 15px;
+    margin-left: 15px;
+    padding: 15px;
+    /* width: 80%; */
+    display: flex;
+    border: 1px grey solid;
+    border-radius: 3px;
+    font-size: larger;
+    /* align-items: center; */
+    /* justify-content: center; */
+    
+}

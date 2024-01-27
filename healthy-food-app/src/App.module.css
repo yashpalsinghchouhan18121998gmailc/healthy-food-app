@@ -1,0 +1,16 @@
+.outerdiv{
+    width: 400px;
+    min-height: 500px;
+    text-align: center;
+    /* display: flex;
+    justify-content: center; */
+    background-color: beige;
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+
+html{
+    display: flex;
+
+    justify-content: center;
+}
